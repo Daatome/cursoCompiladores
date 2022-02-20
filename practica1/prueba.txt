@@ -1,0 +1,5 @@
+Hola prueba de lectura de documento
+desde python
+False True 
+12 3256 45662 45.233
+484ds

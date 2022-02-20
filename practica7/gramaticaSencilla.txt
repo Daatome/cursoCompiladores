@@ -1,0 +1,3 @@
+S->ACa
+A->bC
+C->cd 

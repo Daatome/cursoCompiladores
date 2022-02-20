@@ -1,0 +1,16 @@
+programa Prueba_Examen;
+comienza
+	alfa=2;
+	hola= alfa;
+	d=0;
+	para i=0 a i>2 haz
+	comienza
+		x=2;
+		
+	termina
+	mientras d<10 haz
+	comienza
+		d=d+1;
+	termina
+termina
+HECHO

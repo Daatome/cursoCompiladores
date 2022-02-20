@@ -1,0 +1,10 @@
+programa Prueba_Examen
+comienza
+	alfa = 10 * 35 + 15;
+	1 = alfa;
+	si i < alfa entonces
+		para j = 0 a alfa haz
+			beta = 3 * alfa;
+
+	imprime ("El resultado de la operacion es: %d, beta)
+Termina

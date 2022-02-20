@@ -1,0 +1,7 @@
+E->I-E
+E->I
+I->E-I
+I->a
+I->b
+I->c
+I->d

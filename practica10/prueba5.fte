@@ -1,0 +1,6 @@
+programa prueba_2;
+comienza
+	para i=1 a alfa haz
+		n = i * 2;
+termina
+HECHO
